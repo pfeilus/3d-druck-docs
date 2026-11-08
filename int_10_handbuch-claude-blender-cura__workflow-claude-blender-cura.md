@@ -51,7 +51,7 @@ Beispiel: „Gehäuse für einen Rasierer in zwei Teilen (Haube für Motor, Elek
 
 ## cura-settings {#cura-settings}
 
-Werte aus dem G-Code vom 08.11.2026 (Cura 5.12.0, Drucker „Anycubic i3 Mega“). Die Datei enthält nur Abweichungen vom Profil und die Werte im G-Code selbst, nicht das ganze Profil.
+Werte aus dem G-Code vom 08.11.2026 (erster Slice, Einstellungen noch nicht endgültig, das Cura-Profil wurde deshalb nicht abgelegt) (Cura 5.12.0, Drucker „Anycubic i3 Mega“). Die Datei enthält nur Abweichungen vom Profil und die Werte im G-Code selbst, nicht das ganze Profil.
 
 | Einstellung | Wert | Quelle |
 |---|---|---|

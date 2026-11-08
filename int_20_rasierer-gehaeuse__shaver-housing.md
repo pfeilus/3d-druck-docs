@@ -44,6 +44,8 @@ Prüfwerte (Test mit Blender 5.2.3 ohne Oberfläche): Haube 6700 mm³, Deckel 98
 
 Druck auf Anycubic i3 Mega, PLA Basic 1,75 mm schwarz, Düse 0,4 mm. Die Slicer-Werte (G-Code vom 08.11.2026: 0,2 mm, Füllung 20 %, ohne Stützen, 200 °C Düse, 60 °C Bett, Druckzeit 1 h 47 min, 6,93 m Filament) stehen in `workflow-claude-blender-cura`, `cura-settings`. Ausrichtung: Haube mit der offenen Seite nach unten, Deckel mit der flachen Seite nach unten.
 
+Die Cura-Einstellungen des ersten Slicens waren nicht endgültig (Nutzer, 08.11.2026), sie sind als Stand dokumentiert und werden mit dem nächsten Modell überarbeitet.
+
 ## decisions {#decisions}
 
 - **08.11.2026:** Form 2 (birnenförmig, unten deutlich breiter am Deckel, oben schlank am Rasierkopf) als zusätzliche Testform gewünscht.

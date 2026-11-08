@@ -31,7 +31,7 @@ Ausgenommen vom Register, jede Datei gehört zu einem Teil. Ordnerschema: `parts
 | `parts/shaver-housing/v2-pear/shaver_housing_pear_blender.py` | `shaver-housing`, Version 2 (Birnenform, nahtlos) | 08.11.2026, getestet mit Blender 5.2.3 |
 | `parts/shaver-housing/v2-pear/gcode/AI3M_Rasierer_20261108.gcode` | Version 2, Druckplatte, Cura 5.12.0 | 08.11.2026, Druckergebnis `[OFFEN]` |
 | `parts/shaver-housing/v2-pear/stl/` | Version 2: STL aus Blender | `[OFFEN]` noch nicht abgelegt |
-| `profiles/cura/` | Cura-Profil (Export) | `[OFFEN]` noch nicht abgelegt |
+| `profiles/cura/` | Cura-Profile (Export), mit `README.md` | Ordner angelegt 08.11.2026; Profil folgt mit dem nächsten Modell |
 
 ---
 
